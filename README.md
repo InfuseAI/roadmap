@@ -22,5 +22,8 @@ To raise a bug please use:
 - https://github.com/infuseai/primehub-admission/issues/new
 - https://github.com/infuseai/primehub-controller/issues/new
 
+## Security Disclosures
+If you think you've discovered potential security issue from PrimeHub, please do **not** create a public Github issue. We would like to ask you send your report privately to our security team via security@infuseai.io.
+
 ## License
 This library is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
