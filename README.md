@@ -11,7 +11,7 @@ We want to share with our community what we're doing right now and what we plan 
 ## Feature Requests
 You are very welcome to create new issues on this project to request new features about PrimeHub CE.
 
-If you wuld like to suggest a new feature, please use our issue template. This template cnotains a few essential questions that help us understand the problem you are facing and your thoughts that will address it. We also tag imcoming issues from this template with `feature_request`. This allows us to quickly see what has been raised from our community.
+If you wuld like to suggest a new feature, please use our issue template. This template contains a few essential questions that help us understand the problem you are facing and your thoughts that will address it. We also tag imcoming issues from this template with `feature_request`. This allows us to quickly see what has been raised from our community.
 
 ## Reporting Bugs
 We would like to ask you not to report bugs using this repository. Each of our components has it's own repo where you can create issues there. It requires your help to provide different informations for each components so we can best understand how to help you.
